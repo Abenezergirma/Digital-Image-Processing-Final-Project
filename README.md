@@ -1,1 +1,1 @@
-# Digital-Image-Processing-Final-Project
+# CNN-based Amharic OCR 
